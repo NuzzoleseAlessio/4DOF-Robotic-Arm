@@ -1,0 +1,30 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# SolidWorks temporary and lock files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+
+# Autodesk Inventor temporary and backup files
+OldVersions/
+*.lck
+*.ipj.workspace
+
+
+# Inventor FEA large files
+*.fmsh
+*.fres
