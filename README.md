@@ -1,6 +1,6 @@
 # 4 DOF Robotic Arm
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge&logo=solidworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Freenove](https://img.shields.io/badge/Freenove-00979D?style=for-the-badge&logo=arduino&logoColor=white)
